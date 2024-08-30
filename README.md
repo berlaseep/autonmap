@@ -16,5 +16,5 @@ chmod +x autonmap.sh
 ###Run
 
 ```
-bash utonamp.sh
+bash autonamp.sh
 ```
