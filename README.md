@@ -1,4 +1,4 @@
-# autonmap
+# AUTONMAP
 uso to automatic nmap command
 
 ###Install
@@ -13,3 +13,8 @@ git clone https://github.com/berlaseep/autonmap
 chmod +x autonmap.sh
 ```
 
+###Run
+
+```
+bash utonamp.sh
+```
